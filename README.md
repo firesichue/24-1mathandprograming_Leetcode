@@ -1,9 +1,6 @@
 # 24-1mathandprograming_Leetcode!
 
-
-
-![2024-06-21 07 57 25](https://github.com/firesichue/24-1mathandprograming_Leetcode/assets/170858202/f0d6ef41-b877-450a-849a-003bb690f274)
-
+ ![2024-06-21 07 59 55](https://github.com/firesichue/24-1mathandprograming_Leetcode/assets/170858202/a7470930-9ec5-40f0-84f0-2662012cbef1)
 
 
 [Top Interview 150 - Study Plan - LeetCode.pdf](https://github.com/user-attachments/files/15921984/Top.Interview.150.-.Study.Plan.-.LeetCode.pdf)
