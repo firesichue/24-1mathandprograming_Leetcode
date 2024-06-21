@@ -2,8 +2,6 @@
 
 
 
-[2024-06-21 07 59 55](https://github.com/firesichue/24-1mathandprograming_Leetcode/assets/170858202/8afdcec9-1581-405e-8126-7a033b1044c0)
-
 ![2024-06-21 07 57 25](https://github.com/firesichue/24-1mathandprograming_Leetcode/assets/170858202/f0d6ef41-b877-450a-849a-003bb690f274)
 
 
